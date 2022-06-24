@@ -1,0 +1,21 @@
+{
+    "name": "revisualassist",
+    "displayName": "Re-Visual-Assit",
+    "description": "This is a color theme for C++.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ReVisualAssist",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ReVisualAssist-color-theme.json"
+            }
+        ]
+    }
+}
